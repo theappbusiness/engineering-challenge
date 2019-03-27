@@ -74,6 +74,10 @@ The acceptance criteria are open to your interpretation and creativity. If in do
 
 No designs are provided. As such, you can put your own creative stamp on the delivered software. You are encouraged to add any nice touches that you feel showcase your abilities. However, the most important thing is that your code works, it is well structured and it meets the acceptance criteria laid out above.
 
+# 📱 Platform-specific requirements
+
+If you're applying for an iOS Engineering position, please read the [additional requirements for iOS](./platforms/ios/additional-requirements.md).
+
 # 🔍 Any Questions
 
 Please don't hesitate to contact us with any questions. It's better to ask clarification questions up front.
