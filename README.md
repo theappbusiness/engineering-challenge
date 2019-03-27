@@ -70,13 +70,13 @@ The acceptance criteria are open to your interpretation and creativity. If in do
 * Body text is given as a string in the `"body_elements"` array.
 * In-line images are represented as JSON objects with a single key `"image_url"`. These should be displayed in-line as they appear between text in the JSON.
 
-# 🎨 Putting your stamp on it
-
-No designs are provided. As such, you can put your own creative stamp on the delivered software. You are encouraged to add any nice touches that you feel showcase your abilities. However, the most important thing is that your code works, it is well structured and it meets the acceptance criteria laid out above.
-
 # 📱 Platform-specific requirements
 
 If you're applying for an iOS Engineering position, please read the [additional requirements for iOS](./platforms/ios/additional-requirements.md).
+
+# 🎨 Putting your stamp on it
+
+No designs are provided. As such, you can put your own creative stamp on the delivered software. You are encouraged to add any nice touches that you feel showcase your abilities. However, the most important thing is that your code works, it is well structured and it meets the acceptance criteria laid out above.
 
 # 🔍 Any Questions
 
