@@ -41,7 +41,7 @@ You can see an example of how our case studies appear on the [TAB website](https
 
 > ℹ️ A good place to start is to look at the JSON and the website together. You will see how the keys in the JSON relate to the content on the website. By doing this, you will see the keys that you will need to use to deliver your solution. There are additional keys in the JSON that you are not required to make use of.
 
-# ✅ Acceptance Criteria
+# ✅ Acceptance criteria
 
 The acceptance criteria are open to your interpretation and creativity. If in doubt, do what feels right or ask for clarification.
 
@@ -70,10 +70,14 @@ The acceptance criteria are open to your interpretation and creativity. If in do
 * Body text is given as a string in the `"body_elements"` array.
 * In-line images are represented as JSON objects with a single key `"image_url"`. These should be displayed in-line as they appear between text in the JSON.
 
+# 📱 Platform-specific requirements
+
+If you're applying for an iOS Engineering position, please read the [additional requirements for iOS](./platforms/ios/additional-requirements.md).
+
 # 🎨 Putting your stamp on it
 
 No designs are provided. As such, you can put your own creative stamp on the delivered software. You are encouraged to add any nice touches that you feel showcase your abilities. However, the most important thing is that your code works, it is well structured and it meets the acceptance criteria laid out above.
 
-# 🔍 Any Questions
+# 🔍 Any questions
 
 Please don't hesitate to contact us with any questions. It's better to ask clarification questions up front.
