@@ -1,8 +1,9 @@
 # 📱 iOS Additional Requirements
 
-# 🚀 Starter code
+# 🚀 Starting points
 
-You may wish to use incomplete model parsing code from [./src/Article.swift](./src/Article.swift).
+- You may wish to use incomplete model parsing code from [./src/Article.swift](./src/Article.swift).
+- You might also want to take a look at this post on [acing coding tests](https://edit.theappbusiness.com/i-followed-these-7-simple-steps-and-became-an-ios-coding-test-boss-7da963c3a40d).
 
 # 👾 Dependencies
 
