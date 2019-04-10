@@ -1,13 +1,13 @@
 # 📱 iOS Additional Requirements
 
+# 👾 Dependencies
+
+Please complete the test without the use of third-party dependencies. We want you to demonstrate your knowledge and experience of the iOS eco-system.
+
 # 🚀 Starting points
 
 - You may wish to use incomplete model parsing code from [./src/Article.swift](./src/Article.swift).
 - You might also want to take a look at this post on [acing coding tests](https://edit.theappbusiness.com/i-followed-these-7-simple-steps-and-became-an-ios-coding-test-boss-7da963c3a40d).
-
-# 👾 Dependencies
-
-Please complete the test without the use of third-party dependencies. We want you to demonstrate your knowledge and experience of the iOS eco-system.
 
 # ☑️ Submission checklist
 
