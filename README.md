@@ -11,7 +11,7 @@ Thank you for applying to join our team at TAB! We'd now like to see an example 
 
 Please build an app to showcase a small sample of some of the amazing work TAB has delivered over the years.
 
-You are required to show the list of TAB case studies available [here](./endpoints/v1/caseStudies.json?raw=1). Please embed the URL below into your codebase. On launch, the app should always fetch the latest case studies from the given URL. If we add more case studies in the future, your app will display the up-to-date list. Do not read from hardcoded JSON.
+You are required to show the list of TAB case studies available [here](./endpoints/v1/caseStudies.json?raw=1). Please embed the URL below into your codebase. On launch, the app should always fetch the latest case studies from the given URL. If we add more case studies in the future, your app will display the up-to-date list. Do not read from hardcoded JSON. Do not embed images within the app, download them from the URLs provided within the JSON.
 
 **Fetch from the following URL:**
 ```
@@ -50,19 +50,20 @@ The acceptance criteria are open to your interpretation and creativity. If in do
 * When opening the app, the user should see the list of case studies available in the JSON at the given URL.
 * The user should see the list of case studies as per the array value for the `"case_studies"` key in the JSON.
 * For each case study in the list, the user should see:
-  * a hero image, available from the URL value provided for the `"hero_image"` key;
+  * a hero image, downloaded from the URL value provided for the `"hero_image"` key (do not embed images within the app);
   * teaser text as per the `"teaser"` key in the JSON.
 
 ## TAB-002
 
 * The user can navigate to read a full article by selecting a case study from the list.
 * For the full article, the user should see:
-  * a hero image, available from the URL value provided for the `"hero_image"` key;
+  * a hero image, downloaded from the URL value provided for the `"hero_image"` key (do not embed images within the app);
   * the title as per the `"title"` key;
   * body content broken into sections, as per the array value for the `"sections"` key;
 * For each section of body content, the user should see:
   * the section title (if provided in the JSON). This should be in a strong font weight to distinguish it from body text. It is read from the section's `"title"` key;
-  * a list of body elements (either text or images). These are read from the `"body_elements"` key.
+  * a list of body elements (either text or images). These are read from the `"body_elements"` key;
+  * any images within the sections of body content should be downloaded from the URL provided for the `image_url` key.
 * The user should be able to easily return to the full list of case studies (delivered in TAB-001).
 
 ### Additional notes for TAB-002
