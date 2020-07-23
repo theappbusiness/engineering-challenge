@@ -23,7 +23,7 @@
         {
           "title": "Reimagining brake testing",
           "body_elements": [
-            "Since 2014, Transport for London (TfL) and The App Business have been working together to find leaner, more efficient ways of working, with the help of mobile technology. The inefficiencies within the existing brake testing process made it a prime candidate for the programme.",
+            "Since 2014, Transport for London (TfL) and Kin + Carta Create have been working together to find leaner, more efficient ways of working, with the help of mobile technology. The inefficiencies within the existing brake testing process made it a prime candidate for the programme.",
             "The joint team began with a bold hypothesis: could the in-built sensors within an Apple iPad, which can measure speed, pitch, roll and yaw, match the accuracy of existing testing methods? And, most importantly, could it be used on a train in service - reducing the costly need to remove it?",
             {
               "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/decelerator_pitch-roll-2x.jpg"
@@ -33,7 +33,7 @@
         {
           "title": "Increasing speed-to-value",
           "body_elements": [
-            "With such a bold hypothesis, it was important to first demonstrate the iPad could be a reliable replacement for existing testing technology. Over the course of just five days, The App Business’ engineering team conducted a technical proof-of-concept that demonstrably proved the iPad was up to the task.",
+            "With such a bold hypothesis, it was important to first demonstrate the iPad could be a reliable replacement for existing testing technology. Over the course of just five days, Kin + Carta Create’ engineering team conducted a technical proof-of-concept that demonstrably proved the iPad was up to the task.",
             "The successful, quickfire experiment brought early value and strengthened the business case for a new, more efficient mode of brake testing. With the theory validated, the team then moved from proof-of-concept code to a production-ready app, now called Decelerator, in six short weeks.",
             {
               "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/decelerator_graph-2x.jpg"
@@ -82,9 +82,9 @@
         {
           "title": "Setting direction and tempo",
           "body_elements": [
-            "RDG turned to TAB for both its extensive transport sector and mobile-specific expertise. Together, the team began an intensive, two-week Discovery phase, led by the TAB team.",
+            "RDG turned to Kin + Carta for both its extensive transport sector and mobile-specific expertise. Together, the team began an intensive, two-week Discovery phase, led by the Create team.",
             "The first priority was to conduct a series of in-depth workshops to clarify the product vision, and map a series of clear user and business outcomes.",
-            "One of the most important painpoints uncovered was the physical delay between applying for a Railcard, and receiving it in the post - a process which could take up to 5 working days. This alone meant a loss of nearly 7% of potential Railcard customers.",
+            "One of the most important pain points uncovered was the physical delay between applying for a Railcard, and receiving it in the post - a process which could take up to 5 working days. This alone meant a loss of nearly 7% of potential Railcard customers.",
             "Following the kick-off workshops, three clear customer outcomes emerged as highlighted in the diagram below.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/02-card-illustration-x2.png"
@@ -96,7 +96,7 @@
           "body_elements": [
             "Extensive user research was conducted in stations across London, testing prototype solutions directly with customers. This real-world research was invaluable, allowing the team to uncover the varying painpoints and experiences of Railcard users - from students to the elderly.",
             "Wireframes and early stage designs were then iterated rapidly, informed by these fast, direct feedback loops.",
-            "The process also saw TABbers jump aboard trains to test solutions with our other key user groups - Revenue Protection Inspectors. Together, TAB and RDG ran sessions across train operating companies. This ensured that multiple digital Railcards could be easily checked on mobile in the short space of time that ticket inspections occur, and ensured any usability issues could be surfaced and addressed early.",
+            "The process also saw the team jump aboard trains to test solutions with our other key user groups - Revenue Protection Inspectors. Together, Kin + Carta and RDG ran sessions across train operating companies. This ensured that multiple digital Railcards could be easily checked on mobile in the short space of time that ticket inspections occur, and ensured any usability issues could be surfaced and addressed early.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/03-workshop_inline-x2.png"
             }
@@ -113,7 +113,7 @@
             "When it comes to security, what happens beneath the hood is just as important as what the user sees - and sometimes, it’s the little details that make a difference. The app’s use of background updates is a case in point.",
             "For security, it’s critical that a Railcard can be validated prior to use. Background updates are a straightforward way to ensure that any Railcard is valid, with any invalid card passing into a locked state upon opening. Background updates also ensure, when using a valid Railcard, that customers don’t suffer the anxiety of waiting for it to load during a ticket inspection.",
             "Even at a low level, however, background updates impact a user’s battery and data - which isn’t a great experience if you’re travelling.",
-            "TAB’s engineers, therefore, made use of certain native aspects of iOS and Android to implement two different types of background update - friendly, and mandatory. Taken together, this inexpensive enhancement means not only is Railcard security robustly met, but battery and data are impacted far less, resulting in an improved user experience.",
+            "Our engineers, therefore, made use of certain native aspects of iOS and Android to implement two different types of background update - friendly, and mandatory. Taken together, this inexpensive enhancement means not only is Railcard security robustly met, but battery and data are impacted far less, resulting in an improved user experience.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/04-rdg-security-stack-x2.png"
             }
@@ -122,9 +122,9 @@
         {
           "title": "A digital success story",
           "body_elements": [
-            "In just over three months, TAB and RDG successfully transitioned national Railcards from a physical to a digital format. The customer response has been remarkable: over 200,000 digital Railcards have been sold in the first six months, and the app is currently rated at 4.7 stars on the App Store.",
+            "In just over three months, Kin + Carta and RDG successfully transitioned national Railcards from a physical to a digital format. The customer response has been remarkable: over 2,000,000 digital Railcards have been sold in the first two years, and the app is currently rated at 4.7 stars on the App Store and Play Store combined.",
             "Highly secure, the anti-fraud measures in place also mean that as of November 2017, zero cards have been identified as fraudulent.",
-            "Looking ahead, the app will provide an acutely flexible foundation for the inclusion of new Railcards. This allows RDG to release and test new propositions - such as the proposed new ‘Millennial’ 26-30 Railcard - at a greatly accelerated pace.",
+            "The app provides an acutely flexible foundation for the inclusion of new Railcards. This allows RDG to release and test new propositions at a greatly accelerated pace - such as the wildly successful ‘Millennial’ 26-30 Railcard and the newly launched 16-17 Saver, both of which were launched within just 3 weeks.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/05-rdg_all-cards-x2.png"
             }
@@ -155,7 +155,7 @@
         {
           "title": "Increasing speed to value",
           "body_elements": [
-            "The Met Office had already begun preliminary work on a new mobile app, defining user requirements and laying the groundwork prior to bringing in The App Business to work as part of a blended, co-located team delivering end-to-end services.",
+            "The Met Office had already begun preliminary work on a new mobile app, defining user requirements and laying the groundwork prior to bringing in Kin + Carta Create to work as part of a blended, co-located team delivering end-to-end services.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/user_research-2x.jpg"
             },
@@ -181,7 +181,7 @@
           "title": "Engineering the Weather Cloud",
           "body_elements": [
             "As part of a separate engineering project, the team has also laid the critical foundation for future-proofing the delivery of the Met Office’s services.",
-            "Underpinning the Met Office’s digital channels is a bleeding-edge, Cloud-based middleware layer fully engineered by The App Business. Aptly named the Weather Cloud, this purpose-built platform optimises complex weather and scientific data for a range of Met Office platforms.",
+            "Underpinning the Met Office’s digital channels is a bleeding-edge, Cloud-based middleware layer fully engineered by Kin + Carta Create. Aptly named the Weather Cloud, this purpose-built platform optimises complex weather and scientific data for a range of Met Office platforms.",
             "Highly scalable, this smart software layer enables the Met Office to serve up data across channels and devices, wherever the public need them. Today, that might mean smartphones - but tomorrow, it could be inside your car, or your home.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/weather_cloud-2x.jpg"
@@ -191,7 +191,7 @@
         {
           "title": "Ready to listen, learn and adapt",
           "body_elements": [
-            "Core to the delivery of both projects has been the adoption of an iterative Agile approach. This methodology, championed by The App Business, injects increased speed and responsiveness, with a relentless focus on the cost-effective creation of value. The process of embedding agility has been additionally optimised by co-locating cross-functional, blended teams from both organisations so that staff can work side-by-side. This close partnership is a critical prerequisite in the creation and delivery of high quality software - especially with a tight deadline in mind.",
+            "Core to the delivery of both projects has been the adoption of an iterative Agile approach. This methodology, championed by Kin + Carta Create, injects increased speed and responsiveness, with a relentless focus on the cost-effective creation of value. The process of embedding agility has been additionally optimised by co-locating cross-functional, blended teams from both organisations so that staff can work side-by-side. This close partnership is a critical prerequisite in the creation and delivery of high quality software - especially with a tight deadline in mind.",
             "With an exciting, young MVP product now live and in the wild, and the Weather Cloud in action behind the scenes, this is just the start of the iterative journey towards delivering the best weather services available on mobile.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/details_phone-2x.jpg"
@@ -207,7 +207,7 @@
       "vertical": "Retail",
       "is_enterprise": false,
       "title": "Market-Leading Convenience",
-      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_tesco_hero-2x.png",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_tesco_hero-2x.png",
       "sections": [
         {
           "title": null,
@@ -215,23 +215,23 @@
             "The mobile food phenomenon has taken London by storm. New disruptors entering the arena are changing the food and services industry for good. Convenience and immediacy at the tap of a finger are the new normal - and when it comes to buying our groceries, customer expectations keep on rising.",
             "As the third largest retailer in the world, and an iconic global brand, Tesco is the go-to grocery destination for millions of shoppers. In the face of new competitive entrants, Tesco needed to introduce a new mobile shopping experience in response to growing demand for increased convenience.",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_tesco_store-2x.jpg"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_tesco_store-2x.jpg"
             },
-            "With a clear vision in place, Tesco appointed TAB as their expert mobile partner to refine their proposition and accelerate the delivery of a brand new mobile service - Tesco Now.",
+            "With a clear vision in place, Tesco appointed Kin + Carta Create as their expert mobile partner to refine their proposition and accelerate the delivery of a brand new mobile service - Tesco Now.",
             "Tesco Now is a market-leading grocery service with no minimum order, getting everyday essentials to Londoners - quickly, and on-demand. Currently available in London across Zones 1 and 2, this exciting product is at initial pilot stage and will continue to evolve over the course of 2017.",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_tesco_devices-2x.png"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_tesco_devices-2x.png"
             }
           ]
         },
         {
           "title": "Shaped by customer demand",
           "body_elements": [
-            "Tesco had already conducted a number of small scale experiments to collect shopper data. This provided important early insight into the customer desire for an on-demand mobile grocery service, and allowed the team to kick-off with an initial Discovery phase supported by TAB’s Strategy team.",
+            "Tesco had already conducted a number of small scale experiments to collect shopper data. This provided important early insight into the customer desire for an on-demand mobile grocery service, and allowed the team to kick-off with an initial Discovery phase supported by Kin + Carta Create's Strategy team.",
             "The Discovery phase successfully validated and refined both the service and product proposition. Thorough research, focused workshops and in-depth interviews with a core group of Tesco customers meant the joint team clarified their awareness of:\n• What customers expect from an on-demand service;\n• What customers want to achieve from an on-demand service;\n• When and where customers want to make orders.",
             "Using our outcome-driven framework throughout Discovery allowed the team to move quickly, establishing a clear set of service priorities for the app. These would become essential: empowering the joint team to take leaner, faster decisions and in turn, accelerate delivery.",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_tesco_workshop-2x.jpg"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_tesco_workshop-2x.jpg"
             }
           ]
         },
@@ -239,9 +239,9 @@
           "title": "Consistency anytime, everywhere",
           "body_elements": [
             "With such a strong, resonant brand as Tesco, it was essential that the new app behave and feel like an integrated channel.",
-            "Creating this seamless shopper experience across in-store, online and mobile was made easier thanks to Tesco’s clear design principles. TAB’s designers were able to quickly develop a sleek user interface that maintained the familiar Tesco brand experience on mobile.",
+            "Creating this seamless shopper experience across in-store, online and mobile was made easier thanks to Tesco’s clear design principles. Kin + Carta Create's designers were able to quickly develop a sleek user interface that maintained the familiar Tesco brand experience on mobile.",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_tesco_consistency-2x.png"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_tesco_consistency-2x.png"
             }
           ]
         },
@@ -249,24 +249,24 @@
           "title": "Streamlined scheduling",
           "body_elements": [
             "In parallel to the app’s development, Tesco also created a sophisticated middleware layer, which supports Tesco Now by optimising data for fast, efficient delivery to mobile. This was a prerequisite for a fast, modern and intuitive mobile experience, whilst additionally allowing Tesco Now to integrate with Tesco’s core backend systems.",
-            "Running two such important projects in parallel meant that for the joint team, communication and scheduling were mission critical: both TAB and Tesco worked closely, side-by-side, to build their respective components based on a modular architecture. This architectural approach delivers acute flexibility, ensuring Tesco Now has room to grow and evolve as the service develops. It also maximises the opportunity for code reuse, and means the product can be efficiently maintained in the future.",
+            "Running two such important projects in parallel meant that for the joint team, communication and scheduling were mission critical: both Kin + Carta Create and Tesco worked closely, side-by-side, to build their respective components based on a modular architecture. This architectural approach delivers acute flexibility, ensuring Tesco Now has room to grow and evolve as the service develops. It also maximises the opportunity for code reuse, and means the product can be efficiently maintained in the future.",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_tesco_graph_dark-2x.png"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_tesco_graph_dark-2x.png"
             }
           ]
         },
         {
           "title": "Automated, journey-driven testing",
           "body_elements": [
-            "Working alongside Tesco's experts at the company’s dedicated testing lab, TAB’s test engineers conducted extensive usability and exploratory testing.",
-            "Automation proved to be key, and for this, TAB took an innovative journey-driven approach: automating the core end-to-end journeys that customers make through the app. From this, we created a fast, highly efficient automation suite that gave us feedback at pace.",
+            "Working alongside Tesco's experts at the company’s dedicated testing lab, Kin + Carta Create's test engineers conducted extensive usability and exploratory testing.",
+            "Automation proved to be key, and for this, Kin + Carta Create took an innovative journey-driven approach: automating the core end-to-end journeys that customers make through the app. From this, we created a fast, highly efficient automation suite that gave us feedback at pace.",
             "Looking forward, surveys embedded within the app will prove invaluable, continuing to inform Tesco about how users engage with the service. These short feedback loops will provide the essential data necessary to uncover emerging pain points and highlight areas of improvement for future releases.",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/new-tab_tesco_user-feedback-2x.png"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/new-kcc_tesco_user-feedback-2x.png"
             },
-            "A decisive factor in the project's success to date has been the focus and dedication shared by both TAB and Tesco. Both co-locating and co-sourcing the team facilitated strongly collaborative and agile ways of working - allowing team members to stay in sync, and pivot at speed when confronted by unforeseen challenges. This high-performing workflow foundation will be vital as the product evolves beyond its first release in the year ahead.",
+            "A decisive factor in the project's success to date has been the focus and dedication shared by both Kin + Carta Create and Tesco. Both co-locating and co-sourcing the team facilitated strongly collaborative and agile ways of working - allowing team members to stay in sync, and pivot at speed when confronted by unforeseen challenges. This high-performing workflow foundation will be vital as the product evolves beyond its first release in the year ahead.",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_tesco_context-mockup-2x.jpg"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_tesco_context-mockup-2x.jpg"
             }
           ]
         }
@@ -279,7 +279,7 @@
       "vertical": "Media",
       "is_enterprise": false,
       "title": "Driving Best Practice Delivery",
-      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_telegraph_hero-2x.png",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_telegraph_hero-2x.png",
       "app_store_url": "https://itunes.apple.com/gb/app/the-telegraph-news/id303301873?mt=8",
       "sections": [
         {
@@ -287,9 +287,9 @@
           "body_elements": [
             "The Telegraph has provided trusted commentary and news analysis for over 150 years. Every month, millions of readers engage with its content directly from a mobile device and, with a previous app already available, The Telegraph is no stranger to mobile.",
             "However, following an extensive redesign of the print paper, website, and iPad edition, came an increasing awareness that it was also time rethink the mobile experience. For The Telegraph, it was critical that any new mobile product met rising reader expectations and helped to engage a wider, younger audience.",
-            "With the UX and visual designs already well developed, The Telegraph approached The App Business (TAB) to collaborate on the development of the project. With proven experience redefining the delivery of news content for mobile, TAB was an ideal partner - able to hit the ground running with tried-and-tested software engineering skills to ensure the new app met delivery deadlines without compromising quality.",
+            "With the UX and visual designs already well developed, The Telegraph approached Kin + Carta Create to collaborate on the development of the project. With proven experience redefining the delivery of news content for mobile, Kin + Carta Create was an ideal partner - able to hit the ground running with tried-and-tested software engineering skills to ensure the new app met delivery deadlines without compromising quality.",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_telegraph_mockup1-2x.jpg"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_telegraph_mockup1-2x.jpg"
             }
           ]
         },
@@ -297,9 +297,9 @@
           "title": "Honing the product vision",
           "body_elements": [
             "The first priority, however, was to refine the new product’s vision and proposition. Reviewing the product through the lens of Outcome-Driven Innovation (ODI), the joint team were able to create a stronger, clearer product vision. This enabled more effective prioritisation of features for the product’s initial launch.",
-            "An initial series of workshops, led by TAB, not only provided greater clarity around the reader journey and proposition, but proved instrumental in validating The Telegraph’s designs. This included a closer look at critical areas, like navigation, which were subsequently revisited in line with feedback to allow the user to scroll through a personalised feed with a simple, single swipe.",
+            "An initial series of workshops, led by Kin + Carta Create, not only provided greater clarity around the reader journey and proposition, but proved instrumental in validating The Telegraph’s designs. This included a closer look at critical areas, like navigation, which were subsequently revisited in line with feedback to allow the user to scroll through a personalised feed with a simple, single swipe.",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_telegraph_reader-stories-2x.png"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_telegraph_reader-stories-2x.png"
             }
           ]
         },
@@ -307,21 +307,21 @@
           "title": "Embedding best practice",
           "body_elements": [
             "Delivering The Telegraph’s extensive editorial content to readers on mobile required a highly configurable, modular architecture that could integrate a wide variety of data and rapidly deliver it to readers via mobile.",
-            "With that in mind, TAB developed two key microservices that integrated with existing, complex platforms. Drawing data directly from the content API that serves The Telegraph’s Google AMP platform integration, the services allow for lean, ‘eager’ caching of data.",
+            "With that in mind, Kin + Carta Create developed two key microservices that integrated with existing, complex platforms. Drawing data directly from the content API that serves The Telegraph’s Google AMP platform integration, the services allow for lean, ‘eager’ caching of data.",
             "This ensures information is delivered twelve times faster to mobile than would otherwise be possible through the existing content API. In addition, the services parse data of non-mobile elements so that it can be quickly translated and optimised for delivery to a user’s mobile device.",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_telegraph_code-architecture-2x.png"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_telegraph_code-architecture-2x.png"
             },
             "It was also important that the final product could be easily managed by The Telegraph’s internal development team. This meant ensuring the new app was built using languages already familiar to internal developers - namely, Swift for iOS, Java with RXJava for Android, and Java with Spring Boot for the product’s backend infrastructure.",
-            "TAB’s engineers provided technical leadership throughout, and partnered with internal teams extensively to openly share knowledge and best practice. Working side by side, this transfer of knowledge has helped strengthen The Telegraph’s development capability and allowed for a smooth handover post-launch.",
+            "Kin + Carta Create's engineers provided technical leadership throughout, and partnered with internal teams extensively to openly share knowledge and best practice. Working side by side, this transfer of knowledge has helped strengthen The Telegraph’s development capability and allowed for a smooth handover post-launch.",
             "In a matter of weeks, The Telegraph was able to launch a fresh and compelling new product to market, across both iOS and Android (shown below).",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_telegraph_devices-2x.png"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_telegraph_devices-2x.png"
             },
             "Since launch, the new app has had a further four updates. Early data indicates the app is performing well, and continues to be iterated in line with user feedback.",
-            "The overall success of the project is testament to the strong collaborative and co-sourced approach fostered by TAB, and the technical leadership and best practice shared by our highly experienced mobile engineers. Not only were challenging delivery deadlines met, but The Telegraph team has been set up for future success with a deeper, more applied understanding of Outcome-Driven Innovation (ODI).",
+            "The overall success of the project is testament to the strong collaborative and co-sourced approach fostered by Kin + Carta Create, and the technical leadership and best practice shared by our highly experienced mobile engineers. Not only were challenging delivery deadlines met, but The Telegraph team has been set up for future success with a deeper, more applied understanding of Outcome-Driven Innovation (ODI).",
             {
-                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/tab_telegraph_mockup2-2x.jpg"
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/kcc_telegraph_mockup2-2x.jpg"
             }
           ]
         }
@@ -396,7 +396,7 @@
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/maplin_objectives_-2x.png"
             },
-            "At the heart of this transformation is a new, 3,120 sq ft concept store at The Beehive Centre in Cambridge - the perfect space to test new approaches. With only a short time before the new store was due to open in November 2016, Maplin approached The App Business (TAB) to explore how mobile could be leveraged to deliver against their key business objectives and enhance the in-store experience.",
+            "At the heart of this transformation is a new, 3,120 sq ft concept store at The Beehive Centre in Cambridge - the perfect space to test new approaches. With only a short time before the new store was due to open in November 2016, Maplin approached Kin + Carta Create to explore how mobile could be leveraged to deliver against their key business objectives and enhance the in-store experience.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/maplin_store-2x.png"
             }
@@ -406,8 +406,8 @@
           "title": "Go slow, to go fast",
           "body_elements": [
             "Maplin already had two separate product ideas clearly in mind, and with a pressing deadline looming, it would have been all too easy for a less experienced team to simply start building.",
-            "However, both Maplin and TAB understood that sometimes, before you can go fast - you have to go slow. The biggest challenges lay in interrogating the detail: each existing idea needed further clarification if they were to add tangible business value for Maplin. In addition, the complexities of delivery needed to be comprehensively explored to ensure risks that might affect the deadline were properly identified and mitigated.",
-            "As a result, and despite the pressures of time, the TAB team first conducted an in-depth workshop, followed by a rapid review of the outcomes underpinning each product idea. This proved essential to clarify the business case, and identify known project risks. The outcomes and risks continued to be iterated and reviewed as the project progressed, with the help of prototypes and user feedback.",
+            "However, both Maplin and Kin + Carta Create understood that sometimes, before you can go fast - you have to go slow. The biggest challenges lay in interrogating the detail: each existing idea needed further clarification if they were to add tangible business value for Maplin. In addition, the complexities of delivery needed to be comprehensively explored to ensure risks that might affect the deadline were properly identified and mitigated.",
+            "As a result, and despite the pressures of time, the Kin + Carta Create team first conducted an in-depth workshop, followed by a rapid review of the outcomes underpinning each product idea. This proved essential to clarify the business case, and identify known project risks. The outcomes and risks continued to be iterated and reviewed as the project progressed, with the help of prototypes and user feedback.",
             "Seamless, effective collaboration between both parties was essential for efficient delivery. With that in mind, the joint team also developed a set of core project principles. These acted as a simple, flexible framework, and fostered a shared sense of focus and commitment throughout the project that meant tight deadlines didn’t mean a compromise in quality.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/maplin_principles_-2x.png"
@@ -431,7 +431,7 @@
         {
           "title": "Making it easy",
           "body_elements": [
-            "Given the pressure of the store opening, the TAB team took every opportunity to make the transition and handover process as smooth as possible for Maplin.",
+            "Given the pressure of the store opening, the Kin + Carta Create team took every opportunity to make the transition and handover process as smooth as possible for Maplin.",
             "This included extensive style guides for uploading any new products to the range, along with detailed, intuitive walkthroughs for colleagues to ensure they could use both new apps effectively from the moment the concept store opened.",
             "Early indicators show that the new in-store experience is resonating well with customers: preliminary figures show a 30% increase in footfall and an excellent 20% increase in sales during the first few months of opening."
           ]
@@ -450,7 +450,7 @@
         {
           "title": null,
           "body_elements": [
-            "TAB partnered with Marks & Spencer to develop the Mobile Pay Go service. The service revolutionises the in-store experience for M&S Food customers, enabling users to beat the queues by scanning products, paying and leaving the store in one seamless experience. Working collaboratively, the TAB and M&S team built the service ready for a live employee trial in just 12 weeks.",
+            "Kin + Carta create partnered with Marks & Spencer to develop the Mobile Pay Go service. The service revolutionises the in-store experience for M&S Food customers, enabling users to beat the queues by scanning products, paying and leaving the store in one seamless experience. Working collaboratively, the Kin + Carta Create and M&S team built the service ready for a live employee trial in just 12 weeks.",
             "Marks & Spencer is undergoing a significant transformation as they seek to place digital at the heart of their business, which includes investing in digital and mobile technology that will help improve the customer experience in-store.",
             "Led by Jim Cruickshank (Global Head of Digital Product and UX), the Marks & Spencer team identified an opportunity to deliver on this vision for a ‘mobile-first’ shopping experience by enabling customers to pay for items in-store using their own devices, removing the need to queue. The perfect opportunity presented itself to pilot the new service when a new store opening at its Waterside Head Office was confirmed for summer 2018, but time was short.",
             {
@@ -467,15 +467,15 @@
         {
           "title": "Delivering quality at pace",
           "body_elements": [
-            "TAB Engineers collaborated closely with M&S Product and UX teams to provide continuous feedback and tight iteration loops to ensure a quality experience for customers. An example of this can be seen in the payment experience. When testing an early prototype, the team found it was almost too easy to pay, and users were tapping and paying before they had completed their shop. As a result, the team switched to a swipe across interaction to prevent mistaken payments.",
+            "Kin + Carta Create Engineers collaborated closely with M&S Product and UX teams to provide continuous feedback and tight iteration loops to ensure a quality experience for customers. An example of this can be seen in the payment experience. When testing an early prototype, the team found it was almost too easy to pay, and users were tapping and paying before they had completed their shop. As a result, the team switched to a swipe across interaction to prevent mistaken payments.",
             "The requirement to deliver the service through the core Marks & Spencer app required some creative thinking to minimise the impact on the existing iOS development team while ensuring a smooth integration. The team identified that by building the front-end service as a separate framework on iOS, they could develop and test it independently before it was integrated and deployed to the main M&S app for the trial.",
-            "The team deployed and ran everything in Azure and M&S’s Kubernetes cluster, including an API built by TAB to handle payments and completion of transactions in M&S systems. Following M&S's latest technical standards and closely collaborating with M&S engineers and product managers ensured quality and ease of handover to the team who are now supporting the service."
+            "The team deployed and ran everything in Azure and M&S’s Kubernetes cluster, including an API built by Kin + Carta Create to handle payments and completion of transactions in M&S systems. Following M&S's latest technical standards and closely collaborating with M&S engineers and product managers ensured quality and ease of handover to the team who are now supporting the service."
           ]
         },
         {
           "title": "The results",
           "body_elements": [
-            "The team deployed and ran everything in Azure and M&S’s Kubernetes cluster, including an API built by TAB to handle payments and completion of transactions in M&S systems. Following M&S's latest technical standards and closely collaborating with M&S engineers and product managers ensured quality and ease of handover to the team who are now supporting the service."
+            "The service was successfully trialled at the opening of the new Paddington store, delivering a seamless experience for colleagues that want a quick pay and go option, just 13 weeks after we started working together. The service allows customers to scan and pay for items in under 10 seconds. Next for the service is further iteration based on customer feedback, launch into more stores and on Android devices."
           ]
         }
       ]
@@ -494,7 +494,7 @@
           "body_elements": [
             "By 2040, there are expected to be a staggering 9 billion people living in cities around the world. This increase in population creates an urgent challenge: over the next 25 years, many of our cities will enter a state of ‘global gridlock’, with insufficient room or roads to support the demand for cars.",
             "With its long history of innovation, Ford chose to face the challenge head-on with a series of international experiments designed to uncover new, sustainable business models for the automotive industry. Known as the Smart Mobility Plan, the project kicked off in 2014/5 with 25 experiments running worldwide.",
-            "With London a key test market, Ford approached TAB with a specific question in mind: what does a viable, on-demand car sharing service look like?",
+            "With London a key test market, Ford approached Kin + Carta Create with a specific question in mind: what does a viable, on-demand car sharing service look like?",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/cs-ford-pen-sketches.jpg"
             }
@@ -514,8 +514,8 @@
         {
           "title": "Designed for experimentation",
           "body_elements": [
-            "The challenge for TAB, however, wasn’t just to design a new, end-to-end service. The project also needed to capture invaluable learnings that could later be used by Ford to inform future investment decisions.",
-            "To achieve this, TAB adopted a lean, hypothesis-driven approach right from the outset that allowed for rapid, iterative development and data capture. Each feature developed for the service was highly configurable, and could be measured through a range of analytics. This allowed the team to gain the highest possible level of insight into users needs, and capture real-time, granular data. This proved key when the team began to build the Android version of GoDrive: originally projected to take 18 months per platform to build, data and learnings from the iOS releases ensured the Android app was delivered in just five months.",
+            "The challenge for Kin + Carta Create, however, wasn’t just to design a new, end-to-end service. The project also needed to capture invaluable learnings that could later be used by Ford to inform future investment decisions.",
+            "To achieve this, Kin + Carta Create adopted a lean, hypothesis-driven approach right from the outset that allowed for rapid, iterative development and data capture. Each feature developed for the service was highly configurable, and could be measured through a range of analytics. This allowed the team to gain the highest possible level of insight into users needs, and capture real-time, granular data. This proved key when the team began to build the Android version of GoDrive: originally projected to take 18 months per platform to build, data and learnings from the iOS releases ensured the Android app was delivered in just five months.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/ford-android-ios-vs-android.jpg"
             }
@@ -525,12 +525,12 @@
           "title": "Built for agility",
           "body_elements": [
             "As an ongoing learning experiment, it was critical that GoDrive was built with agility in mind from the outset to allow the project to pivot as needed or rapidly scale to support a global rollout if required.",
-            "The first step was to foster a robust DevOps culture. TAB’s engineering team took the lead, supporting collaborative working, integration and quality assurance between partners across three continents.",
+            "The first step was to foster a robust DevOps culture. Kin + Carta Create's engineering team took the lead, supporting collaborative working, integration and quality assurance between partners across three continents.",
             "In addition, the initial technical footprint was kept small while the system architecture allowed for rapid scalability as needed. Fully automated end-to-end behavioural tests proved key: enabling new features to be released every 8 days on average, however some days saw five different releases of the backend and web portal. This continuous delivery cycle operated successfully for over two years, and reduced testing overhead by 40%.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/cs-ford-edge-to-edge_illustration.jpg"
             },
-            "The speed and efficiency of TAB’s engineering team meant the scope of GoDrive extended beyond mobile to web. The team further delivered two web-based portals: one for customers, and the second for service operators to manage GoDrive’s fleet of Ford Focus Electric and Ford Fiesta cars.",
+            "The speed and efficiency of Kin + Carta Create's engineering team meant the scope of GoDrive extended beyond mobile to web. The team further delivered two web-based portals: one for customers, and the second for service operators to manage GoDrive’s fleet of Ford Focus Electric and Ford Fiesta cars.",
             {
                 "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/cs-ford-desktop.jpg"
             }
@@ -563,9 +563,9 @@
             {
               "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/diagram_fs_valuechain1-2x.png"
             },
-            "The App Business was approached by one of the world’s most recognisable financial services brands to identify and articulate a new mobile-led strategy that would allow them to seize the advantage.",
+            "Kin + Carta Create was approached by one of the world’s most recognisable financial services brands to identify and articulate a new mobile-led strategy that would allow them to seize the advantage.",
             "The critical challenge they faced was two-fold: how best to help customers (banks and merchants) meet the pace of disruptive change, while at the same time, assessing how their own services fit within a post-plastic world.",
-            "To address this complex business challenge, The App Business kicked off the project with a series of lean, strategic investigations to reimagine the client’s existing services. This incorporated three distinct strategic pieces of work: the development of a full API strategy; a discovery phase to uncover new opportunities for innovation, and the creation of new value propositions based on geo-location.",
+            "To address this complex business challenge, Kin + Carta Create kicked off the project with a series of lean, strategic investigations to reimagine the client’s existing services. This incorporated three distinct strategic pieces of work: the development of a full API strategy; a discovery phase to uncover new opportunities for innovation, and the creation of new value propositions based on geo-location.",
             {
               "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/images/fs_product_image-2x.png"
             }

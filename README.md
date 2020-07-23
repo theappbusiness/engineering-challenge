@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="./assets/logo/TAB_logotype_orange.png" width="70%">
+<img src="./assets/logo/black/Kin+Carta_Create_Logo-Black.png" width="70%">
 </p>
 
 
-Thank you for applying to join our team at TAB! We'd now like to see an example of how you work.
+Thank you for applying to join our team at Kin + Carta Create! We'd now like to see an example of how you work.
 
-> 👋 If you haven't applied yet, please do so via www.theappbusiness.com/careers. We cannot accept submitted code without a prior application.
+> 👋 If you haven't applied yet, please do so via https://www.kinandcarta.com/services/create/careers. We cannot accept submitted code without a prior application.
 
-# 🛠 TAB Technical Challenge
+# 🛠 Kin + Carta Create Technical Challenge
 
-Please build an app to showcase a small sample of some of the amazing work TAB has delivered over the years.
+Please build an app to showcase a small sample of some of the amazing work Kin + Carta Create has delivered over the years.
 
-You are required to show the list of TAB case studies available [here](./endpoints/v1/caseStudies.json?raw=1). Please embed the URL below into your codebase. On launch, the app should always fetch the latest case studies from the given URL. If we add more case studies in the future, your app will display the up-to-date list. Do not read from hardcoded JSON. Do not embed images within the app, download them from the URLs provided within the JSON.
+You are required to show the list of Kin + Carta Create case studies available [here](./endpoints/v1/caseStudies.json?raw=1). Please embed the URL below into your codebase. On launch, the app should always fetch the latest case studies from the given URL. If we add more case studies in the future, your app will display the up-to-date list. Do not read from hardcoded JSON. Do not embed images within the app, download them from the URLs provided within the JSON.
 
 **Fetch from the following URL:**
 ```
@@ -22,8 +22,8 @@ https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/en
 
 The requirements are broken down into two [user stories](https://en.wikipedia.org/wiki/User_story):
 
-* **TAB-001:** As a user, I want to see a list of case studies with an image and teaser.
-* **TAB-002:** As a user, I want to read the full article when I select a case study from the list.
+* **KCC-001:** As a user, I want to see a list of case studies with an image and teaser.
+* **KCC-002:** As a user, I want to read the full article when I select a case study from the list.
 
 While completing these user stories, you may wish to commit your code to a local Git repository.
 
@@ -37,7 +37,7 @@ Please structure the code as you would for a production app that will be extende
 
 # 🔗 Example
 
-You can see an example of how our case studies appear on the [TAB website](https://www.theappbusiness.com/work). However, we expect the user experience to vary between a mobile app and the website. Please put your own stamp on the project to make something that looks and feels great on the target operating system.
+You can see an example of how our case studies appear on the [Kin + Carta website](https://www.kinandcarta.com/case-studies). However, we expect the user experience to vary between a mobile app and the website. Please put your own stamp on the project to make something that looks and feels great on the target operating system.
 
 > ℹ️ A good place to start is to look at the JSON and the website together. You will see how the keys in the JSON relate to the content on the website. By doing this, you will see the keys that you will need to use to deliver your solution. There are additional keys in the JSON that you are not required to make use of.
 
@@ -45,7 +45,7 @@ You can see an example of how our case studies appear on the [TAB website](https
 
 The acceptance criteria are open to your interpretation and creativity. If in doubt, do what feels right or ask for clarification.
 
-## TAB-001
+## KCC-001
 
 * When opening the app, the user should see the list of case studies available in the JSON at the given URL.
 * The user should see the list of case studies as per the array value for the `"case_studies"` key in the JSON.
@@ -53,7 +53,7 @@ The acceptance criteria are open to your interpretation and creativity. If in do
   * a hero image, downloaded from the URL value provided for the `"hero_image"` key (do not embed images within the app);
   * teaser text as per the `"teaser"` key in the JSON.
 
-## TAB-002
+## KCC-002
 
 * The user can navigate to read a full article by selecting a case study from the list.
 * For the full article, the user should see:
@@ -64,9 +64,9 @@ The acceptance criteria are open to your interpretation and creativity. If in do
   * the section title (if provided in the JSON). This should be in a strong font weight to distinguish it from body text. It is read from the section's `"title"` key;
   * a list of body elements (either text or images). These are read from the `"body_elements"` key;
   * any images within the sections of body content should be downloaded from the URL provided for the `image_url` key.
-* The user should be able to easily return to the full list of case studies (delivered in TAB-001).
+* The user should be able to easily return to the full list of case studies (delivered in KCC-001).
 
-### Additional notes for TAB-002
+### Additional notes for KCC-002
 
 * Body text is given as a string in the `"body_elements"` array.
 * In-line images are represented as JSON objects with a single key `"image_url"`. These should be displayed in-line as they appear between text in the JSON.
