@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo/black/Kin+Carta_Create_Logo-Black.png" width="70%">
+<img src="./assets/logo/black/Kin+Carta_Create_Logo-Black.png" width="70%">
 </p>
 
 
