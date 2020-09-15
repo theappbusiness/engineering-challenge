@@ -15,7 +15,7 @@ You are required to show the list of Kin + Carta Create case studies available [
 
 **Fetch from the following URL:**
 ```
-https://raw.githubusercontent.com/theappbusiness/engineering-challenge/master/endpoints/v1/caseStudies.json
+https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v1/caseStudies.json
 ```
 
 # 👫 Requirements
