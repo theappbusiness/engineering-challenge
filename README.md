@@ -52,6 +52,7 @@ The acceptance criteria are open to your interpretation and creativity. If in do
 * For each case study in the list, the user should see:
   * a hero image, downloaded from the URL value provided for the `"hero_image"` key (do not embed images within the app);
   * teaser text as per the `"teaser"` key in the JSON.
+* ⚠️ Any case study JSON object with insufficient information should be ignored, e.g. if the `"teaser"` field is missing.
 
 ## KCC-002
 
