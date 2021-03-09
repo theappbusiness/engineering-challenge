@@ -1,0 +1,626 @@
+{
+  "case_studies": [
+    {
+      "id": 1,
+      "client": "TfL",
+      "teaser": "Testing Tube brakes, with TfL Decelerator",
+      "vertical": "Public Sector",
+      "is_enterprise": true,
+      "title": "A World-First For Apple iPad",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/decelerator_header-image-2x.jpg",
+      "sections": [
+        {
+          "title": null,
+          "body_elements": [
+            "With 1.34 billion passengers a year, the Tube is an intrinsic part of London life. Any disruptions, however small, to this essential service can cause a ripple effect that is felt not just on the network, but across the city itself.",
+            "Examples of this can be seen in surprising places. Take brake testing. Each time a Tube train is suspected of faulty brakes, it is removed from service to be tested. This is because, in order to see if brakes are working as intended, the existing testing technology requires the train to be brought to a complete stop. The Underground’s tight schedule means if the train were left in service during this process, severe delays would occur across the line.",
+            "However, what if the train’s brakes turn out to be working just fine? Removing a train from service has still proved disruptive to passengers, and incurred costs for TfL. In 2015, over a quarter of Tube trains removed for testing on just three Underground lines were actually found to be fault-free. Scale this up across all lines, and the impact to both engineering time and lost passenger hours becomes a sizeable problem.",
+            {
+              "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/decelerator_tube-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Reimagining brake testing",
+          "body_elements": [
+            "Since 2014, Transport for London (TfL) and Kin + Carta Create have been working together to find leaner, more efficient ways of working, with the help of mobile technology. The inefficiencies within the existing brake testing process made it a prime candidate for the programme.",
+            "The joint team began with a bold hypothesis: could the in-built sensors within an Apple iPad, which can measure speed, pitch, roll and yaw, match the accuracy of existing testing methods? And, most importantly, could it be used on a train in service - reducing the costly need to remove it?",
+            {
+              "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/decelerator_pitch-roll-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Increasing speed-to-value",
+          "body_elements": [
+            "With such a bold hypothesis, it was important to first demonstrate the iPad could be a reliable replacement for existing testing technology. Over the course of just five days, Kin + Carta Create’ engineering team conducted a technical proof-of-concept that demonstrably proved the iPad was up to the task.",
+            "The successful, quickfire experiment brought early value and strengthened the business case for a new, more efficient mode of brake testing. With the theory validated, the team then moved from proof-of-concept code to a production-ready app, now called Decelerator, in six short weeks.",
+            {
+              "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/decelerator_graph-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Inspiring trust through design",
+          "body_elements": [
+            "The interface for Decelerator is about more than just good looks. The streamlined interface directs users efficiently through the app’s different stages: from set-up, to completing a brake test and sharing the results. Subtle, bespoke animations and interactions bring Decelerator to life, helping users to understand when to provide input, and how to interpret test results.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/decelerator_devices-2x.png"
+            },
+            "The design of Decelerator required the team to build a deep understanding of the conditions in which the app would be used - something that would have been impossible without close collaboration with TfL staff, and in-situ user testing. This process revealed a wealth of invaluable insight that shaped the design of Decelerator.",
+            "An early iteration of the interface, for example, incorporated a bright visual theme. This was popular with users but, when tested in context underground, created too much glare. This potentially hazardous problem was resolved quickly, thanks to the app’s centrally-defined visual styles. A darker, less distracting visual theme was adopted in a matter of minutes, ready for immediate testing.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/decelerator_ipad-2x.jpg"
+            },
+            "Continuing TfL’s long history of global firsts and pioneering innovation, Train Decelerator is the first app of its kind - anywhere in the world. During 2017, it will be piloted across three underground lines and in Year One, aims to reduce the number of trains removed from service by a minimum of 75%. This will drive anticipated savings of £300,000 on these three lines alone - not to mention a dramatic reduction in Lost Customer Hours, a key metric for TfL.",
+            "However, this is just the start of the potential savings Train Decelerator stands to make. Rolled out across the entire Underground network, and extended to other areas of transport, Train Decelerator has the capacity to save millions of pounds per year for TfL."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "client": "Rail Delivery Group",
+      "teaser": "Taking national Railcards from wallet to smartphone",
+      "vertical": "Transport",
+      "is_enterprise": false,
+      "title": "From Wallet to Smartphone",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/rdg_hero_image_1400x520-x2.png",
+      "app_store_url": "https://itunes.apple.com/us/app/railcard/id1246748048?mt=8",
+      "sections": [
+        {
+          "title": null,
+          "body_elements": [
+            "Thanks to products like Apple Wallet, we’re increasingly used to accessing cards and tickets directly from our mobile devices - whether paying for a coffee, or checking in for a flight. With this growing customer expectation in mind, it’s often surprising to be reminded of the number of services that still rely on physical tickets.",
+            "Take national Railcards - a suite of trusted products that help people across the country save up to a third on their rail travel. While the rail and transport industry as a whole has made increasing strides to rethink paper and plastic ticketing systems, national Railcards have remained behind.",
+            "Bringing together the UK’s leading rail companies, Rail Delivery Group (RDG) recognised the urgent need to transform national Railcards. From slow lead and processing times, to the risk of fraud and the frequent challenge of misplacing them, it was time to offer UK customers an altogether smarter, and more efficient, solution.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/01-top-image-x1.png"
+            }
+          ]
+        },
+        {
+          "title": "Setting direction and tempo",
+          "body_elements": [
+            "RDG turned to Kin + Carta for both its extensive transport sector and mobile-specific expertise. Together, the team began an intensive, two-week Discovery phase, led by the Create team.",
+            "The first priority was to conduct a series of in-depth workshops to clarify the product vision, and map a series of clear user and business outcomes.",
+            "One of the most important pain points uncovered was the physical delay between applying for a Railcard, and receiving it in the post - a process which could take up to 5 working days. This alone meant a loss of nearly 7% of potential Railcard customers.",
+            "Following the kick-off workshops, three clear customer outcomes emerged as highlighted in the diagram below.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/02-card-illustration-x2.png"
+            }
+          ]
+        },
+        {
+          "title": "Mapping real-world painpoints",
+          "body_elements": [
+            "Extensive user research was conducted in stations across London, testing prototype solutions directly with customers. This real-world research was invaluable, allowing the team to uncover the varying painpoints and experiences of Railcard users - from students to the elderly.",
+            "Wireframes and early stage designs were then iterated rapidly, informed by these fast, direct feedback loops.",
+            "The process also saw the team jump aboard trains to test solutions with our other key user groups - Revenue Protection Inspectors. Together, Kin + Carta and RDG ran sessions across train operating companies. This ensured that multiple digital Railcards could be easily checked on mobile in the short space of time that ticket inspections occur, and ensured any usability issues could be surfaced and addressed early.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/03-workshop_inline-x2.png"
+            }
+          ]
+        },
+        {
+          "title": "Safe and secure",
+          "body_elements": [
+            "Preventing fraudulent misuse has been an essential requirement for both RDG and train operating companies from the outset. The app has many security features built into it, with one particularly innovative example being the digital hologram visible on all cards.",
+            "The hologram isn’t a static visual asset. Instead, it is a fully coded feature that uses a phone’s in-built sensors to generate non-linear movement visible as the hologram’s ‘sheen’. This makes it difficult to predict and replicate.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/rdg_hologram_on_phone.gif"
+            },
+            "When it comes to security, what happens beneath the hood is just as important as what the user sees - and sometimes, it’s the little details that make a difference. The app’s use of background updates is a case in point.",
+            "For security, it’s critical that a Railcard can be validated prior to use. Background updates are a straightforward way to ensure that any Railcard is valid, with any invalid card passing into a locked state upon opening. Background updates also ensure, when using a valid Railcard, that customers don’t suffer the anxiety of waiting for it to load during a ticket inspection.",
+            "Even at a low level, however, background updates impact a user’s battery and data - which isn’t a great experience if you’re travelling.",
+            "Our engineers, therefore, made use of certain native aspects of iOS and Android to implement two different types of background update - friendly, and mandatory. Taken together, this inexpensive enhancement means not only is Railcard security robustly met, but battery and data are impacted far less, resulting in an improved user experience.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/04-rdg-security-stack-x2.png"
+            }
+          ]
+        },
+        {
+          "title": "A digital success story",
+          "body_elements": [
+            "In just over three months, Kin + Carta and RDG successfully transitioned national Railcards from a physical to a digital format. The customer response has been remarkable: over 2,000,000 digital Railcards have been sold in the first two years, and the app is currently rated at 4.7 stars on the App Store and Play Store combined.",
+            "Highly secure, the anti-fraud measures in place also mean that as of November 2017, zero cards have been identified as fraudulent.",
+            "The app provides an acutely flexible foundation for the inclusion of new Railcards. This allows RDG to release and test new propositions at a greatly accelerated pace - such as the wildly successful ‘Millennial’ 26-30 Railcard and the newly launched 16-17 Saver, both of which were launched within just 3 weeks.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/05-rdg_all-cards-x2.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "client": "Met Office",
+      "teaser": "Rebuilding essential weather services",
+      "vertical": "Public Sector",
+      "is_enterprise": false,
+      "title": "Essential Weather Services",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/metoffice_hero_image-2x.jpg",
+      "app_store_url": "https://itunes.apple.com/gb/app/met-office-weather/id1068146838?mt=8",
+      "sections": [
+        {
+          "title": null,
+          "body_elements": [
+            "Mobile technology continues to provide smarter, faster and more convenient ways to interact with the most important services in our lives - and what could be more important than the weather? It impacts every aspect of our lives, for millions of people, here in the UK.",
+            "For over 160 years, the Met Office has led the field in weather and climate forecasting, fulfilling its role as the UK’s national weather service in order to protect the public, ensuring our wellbeing and prosperity. Today, delivering that service - wherever the public needs it - means rethinking weather services around mobile-enabled users.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/weather_image-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Increasing speed to value",
+          "body_elements": [
+            "The Met Office had already begun preliminary work on a new mobile app, defining user requirements and laying the groundwork prior to bringing in Kin + Carta Create to work as part of a blended, co-located team delivering end-to-end services.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/user_research-2x.jpg"
+            },
+            "This joint Agile approach enabled us to whittle a large list of desired features down to three core areas of functionality: weather forecasts, severe weather warnings and weather alerts. These features defined the Minimum Viable Product (MVP) - successfully launched on schedule in January 2016.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/app_iteration_cycles-2x.jpg"
+            },
+            "Upon opening, the app quickly determines a user’s current location and presents an immediate ‘snapshot’ of the weather wherever they are - serving up just the right amount of information users need to plan their day. Those needing a more detailed view need only tap on a snapshot to gain access to scientific weather data. Users can also save multiple locations to see the weather in the places they care about most.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/snapshot_details-2x.jpg"
+            },
+            "Knowing about severe weather in advance means people can better plan and prepare, protecting their livelihood and their own wellbeing. The Met Office is the UK’s official source for National Severe Weather Warnings, so it was imperative that this information be a core aspect of the app from the outset. All of a user’s saved locations receive warnings as soon as the Met Office issues them.",
+            "Personalised push notifications alert users of severe weather in real time. Making push notifications timely and relevant ensures that when a storm happens the Met Office can inform people - fast.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/severe-weather-2x.jpg"
+            },
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/iphone_android-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Engineering the Weather Cloud",
+          "body_elements": [
+            "As part of a separate engineering project, the team has also laid the critical foundation for future-proofing the delivery of the Met Office’s services.",
+            "Underpinning the Met Office’s digital channels is a bleeding-edge, Cloud-based middleware layer fully engineered by Kin + Carta Create. Aptly named the Weather Cloud, this purpose-built platform optimises complex weather and scientific data for a range of Met Office platforms.",
+            "Highly scalable, this smart software layer enables the Met Office to serve up data across channels and devices, wherever the public need them. Today, that might mean smartphones - but tomorrow, it could be inside your car, or your home.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/weather_cloud-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Ready to listen, learn and adapt",
+          "body_elements": [
+            "Core to the delivery of both projects has been the adoption of an iterative Agile approach. This methodology, championed by Kin + Carta Create, injects increased speed and responsiveness, with a relentless focus on the cost-effective creation of value. The process of embedding agility has been additionally optimised by co-locating cross-functional, blended teams from both organisations so that staff can work side-by-side. This close partnership is a critical prerequisite in the creation and delivery of high quality software - especially with a tight deadline in mind.",
+            "With an exciting, young MVP product now live and in the wild, and the Weather Cloud in action behind the scenes, this is just the start of the iterative journey towards delivering the best weather services available on mobile.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/details_phone-2x.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "client": "Tesco",
+      "teaser": "Delivering market-leading convenience with Tesco Now",
+      "vertical": "Retail",
+      "is_enterprise": false,
+      "title": "Market-Leading Convenience",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_tesco_hero-2x.png",
+      "sections": [
+        {
+          "title": null,
+          "body_elements": [
+            "The mobile food phenomenon has taken London by storm. New disruptors entering the arena are changing the food and services industry for good. Convenience and immediacy at the tap of a finger are the new normal - and when it comes to buying our groceries, customer expectations keep on rising.",
+            "As the third largest retailer in the world, and an iconic global brand, Tesco is the go-to grocery destination for millions of shoppers. In the face of new competitive entrants, Tesco needed to introduce a new mobile shopping experience in response to growing demand for increased convenience.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_tesco_store-2x.jpg"
+            },
+            "With a clear vision in place, Tesco appointed Kin + Carta Create as their expert mobile partner to refine their proposition and accelerate the delivery of a brand new mobile service - Tesco Now.",
+            "Tesco Now is a market-leading grocery service with no minimum order, getting everyday essentials to Londoners - quickly, and on-demand. Currently available in London across Zones 1 and 2, this exciting product is at initial pilot stage and will continue to evolve over the course of 2017.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_tesco_devices-2x.png"
+            }
+          ]
+        },
+        {
+          "title": "Shaped by customer demand",
+          "body_elements": [
+            "Tesco had already conducted a number of small scale experiments to collect shopper data. This provided important early insight into the customer desire for an on-demand mobile grocery service, and allowed the team to kick-off with an initial Discovery phase supported by Kin + Carta Create's Strategy team.",
+            "The Discovery phase successfully validated and refined both the service and product proposition. Thorough research, focused workshops and in-depth interviews with a core group of Tesco customers meant the joint team clarified their awareness of:\n• What customers expect from an on-demand service;\n• What customers want to achieve from an on-demand service;\n• When and where customers want to make orders.",
+            "Using our outcome-driven framework throughout Discovery allowed the team to move quickly, establishing a clear set of service priorities for the app. These would become essential: empowering the joint team to take leaner, faster decisions and in turn, accelerate delivery.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_tesco_workshop-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Consistency anytime, everywhere",
+          "body_elements": [
+            "With such a strong, resonant brand as Tesco, it was essential that the new app behave and feel like an integrated channel.",
+            "Creating this seamless shopper experience across in-store, online and mobile was made easier thanks to Tesco’s clear design principles. Kin + Carta Create's designers were able to quickly develop a sleek user interface that maintained the familiar Tesco brand experience on mobile.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_tesco_consistency-2x.png"
+            }
+          ]
+        },
+        {
+          "title": "Streamlined scheduling",
+          "body_elements": [
+            "In parallel to the app’s development, Tesco also created a sophisticated middleware layer, which supports Tesco Now by optimising data for fast, efficient delivery to mobile. This was a prerequisite for a fast, modern and intuitive mobile experience, whilst additionally allowing Tesco Now to integrate with Tesco’s core backend systems.",
+            "Running two such important projects in parallel meant that for the joint team, communication and scheduling were mission critical: both Kin + Carta Create and Tesco worked closely, side-by-side, to build their respective components based on a modular architecture. This architectural approach delivers acute flexibility, ensuring Tesco Now has room to grow and evolve as the service develops. It also maximises the opportunity for code reuse, and means the product can be efficiently maintained in the future.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_tesco_graph_dark-2x.png"
+            }
+          ]
+        },
+        {
+          "title": "Automated, journey-driven testing",
+          "body_elements": [
+            "Working alongside Tesco's experts at the company’s dedicated testing lab, Kin + Carta Create's test engineers conducted extensive usability and exploratory testing.",
+            "Automation proved to be key, and for this, Kin + Carta Create took an innovative journey-driven approach: automating the core end-to-end journeys that customers make through the app. From this, we created a fast, highly efficient automation suite that gave us feedback at pace.",
+            "Looking forward, surveys embedded within the app will prove invaluable, continuing to inform Tesco about how users engage with the service. These short feedback loops will provide the essential data necessary to uncover emerging pain points and highlight areas of improvement for future releases.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/new-kcc_tesco_user-feedback-2x.png"
+            },
+            "A decisive factor in the project's success to date has been the focus and dedication shared by both Kin + Carta Create and Tesco. Both co-locating and co-sourcing the team facilitated strongly collaborative and agile ways of working - allowing team members to stay in sync, and pivot at speed when confronted by unforeseen challenges. This high-performing workflow foundation will be vital as the product evolves beyond its first release in the year ahead.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_tesco_context-mockup-2x.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "client": "The Telegraph",
+      "teaser": "Driving best practice delivery",
+      "vertical": "Media",
+      "is_enterprise": false,
+      "title": "Driving Best Practice Delivery",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_telegraph_hero-2x.png",
+      "app_store_url": "https://itunes.apple.com/gb/app/the-telegraph-news/id303301873?mt=8",
+      "sections": [
+        {
+          "title": null,
+          "body_elements": [
+            "The Telegraph has provided trusted commentary and news analysis for over 150 years. Every month, millions of readers engage with its content directly from a mobile device and, with a previous app already available, The Telegraph is no stranger to mobile.",
+            "However, following an extensive redesign of the print paper, website, and iPad edition, came an increasing awareness that it was also time rethink the mobile experience. For The Telegraph, it was critical that any new mobile product met rising reader expectations and helped to engage a wider, younger audience.",
+            "With the UX and visual designs already well developed, The Telegraph approached Kin + Carta Create to collaborate on the development of the project. With proven experience redefining the delivery of news content for mobile, Kin + Carta Create was an ideal partner - able to hit the ground running with tried-and-tested software engineering skills to ensure the new app met delivery deadlines without compromising quality.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_telegraph_mockup1-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Honing the product vision",
+          "body_elements": [
+            "The first priority, however, was to refine the new product’s vision and proposition. Reviewing the product through the lens of Outcome-Driven Innovation (ODI), the joint team were able to create a stronger, clearer product vision. This enabled more effective prioritisation of features for the product’s initial launch.",
+            "An initial series of workshops, led by Kin + Carta Create, not only provided greater clarity around the reader journey and proposition, but proved instrumental in validating The Telegraph’s designs. This included a closer look at critical areas, like navigation, which were subsequently revisited in line with feedback to allow the user to scroll through a personalised feed with a simple, single swipe.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_telegraph_reader-stories-2x.png"
+            }
+          ]
+        },
+        {
+          "title": "Embedding best practice",
+          "body_elements": [
+            "Delivering The Telegraph’s extensive editorial content to readers on mobile required a highly configurable, modular architecture that could integrate a wide variety of data and rapidly deliver it to readers via mobile.",
+            "With that in mind, Kin + Carta Create developed two key microservices that integrated with existing, complex platforms. Drawing data directly from the content API that serves The Telegraph’s Google AMP platform integration, the services allow for lean, ‘eager’ caching of data.",
+            "This ensures information is delivered twelve times faster to mobile than would otherwise be possible through the existing content API. In addition, the services parse data of non-mobile elements so that it can be quickly translated and optimised for delivery to a user’s mobile device.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_telegraph_code-architecture-2x.png"
+            },
+            "It was also important that the final product could be easily managed by The Telegraph’s internal development team. This meant ensuring the new app was built using languages already familiar to internal developers - namely, Swift for iOS, Java with RXJava for Android, and Java with Spring Boot for the product’s backend infrastructure.",
+            "Kin + Carta Create's engineers provided technical leadership throughout, and partnered with internal teams extensively to openly share knowledge and best practice. Working side by side, this transfer of knowledge has helped strengthen The Telegraph’s development capability and allowed for a smooth handover post-launch.",
+            "In a matter of weeks, The Telegraph was able to launch a fresh and compelling new product to market, across both iOS and Android (shown below).",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_telegraph_devices-2x.png"
+            },
+            "Since launch, the new app has had a further four updates. Early data indicates the app is performing well, and continues to be iterated in line with user feedback.",
+            "The overall success of the project is testament to the strong collaborative and co-sourced approach fostered by Kin + Carta Create, and the technical leadership and best practice shared by our highly experienced mobile engineers. Not only were challenging delivery deadlines met, but The Telegraph team has been set up for future success with a deeper, more applied understanding of Outcome-Driven Innovation (ODI).",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/kcc_telegraph_mockup2-2x.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "client": "Unilever",
+      "teaser": "Enabling smart, fast decisions inside global giant Unilever",
+      "vertical": "FMCG",
+      "is_enterprise": true,
+      "title": "Enabling Faster Business Decisions",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/oneview-hero-2x.jpg",
+      "app_store_url": null,
+      "sections": [
+        {
+          "title": null,
+          "body_elements": [
+            "Imagine an app that knows where you are, the meeting you’re in and serves up the data you need to take effective decisions in just three taps - from anywhere in the world.",
+            "That’s OneView: the smartest business intelligence tool in the boardroom. A cross-platform, end-to-end Executive Information System (EIS), OneView uses mobile to make business intelligence powerfully contextual. Pulling information from across Unilever, OneView provides just the right data at the right moment. This leads to leaner, more effective decisions without the need to carry around reams of printed, commercially sensitive material."
+          ]
+        },
+        {
+          "title": "The pilot phase",
+          "body_elements": [
+            "The third largest consumer goods company in the world, Unilever is enormous: with operations in 190 different countries, providing a business intelligence solution for the entire organisation right from the start was unfeasible. Instead, we first identified a pilot user group to help us iteratively develop and test a bespoke solution - and there was no better place to begin than right at the top, with Unilever’s Executive Group.",
+            "Based around the world, these users take critical commercial decisions every single day. Before OneView, the intelligence they relied on was largely in cumbersome hard copy: thousands of reports printed each month, and carried to group meetings across the world.",
+            "What the Group really needed was a clear, ‘one view’ of operations: fast, up-to-date and delightful to use. An executive needed to see the reports specifically relevant to their meeting or their business unit automatically - without needing to search, or rifle through endless mounds of paper.",
+            {
+                "image_url": "https://https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/oneview4-ipads-stacked-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Safe in the Cloud",
+          "body_elements": [
+            "With OneView, Unilever would be placing ‘red status’ information into the Cloud for the first time. This transition was essential, allowing OneView to deliver information at high speed around the world - but it also meant security was of critical importance, too.",
+            "Partnering with Unilever’s own IT security team, we created a collaborative and robust set of ‘secure by design’ principles that were applied across OneView’s development. From here, we then developed and led a groundbreaking security solution and scalable architecture, with Cloud deployment and, in partnership with Microsoft, a digital rights management system (DRM). OneView successfully passed penetration testing first time, thanks to its near-military grade security.",
+            {
+                "image_url": "https://https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/oneview2-ipad-mockup-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "A transformational outcome",
+          "body_elements": [
+            "The initial OneView pilot was launched across Europe in just 12 weeks, and rolled out worldwide over the course of the following twelve months. Today, the next generation of this product is used in 111 countries. With a 100% uptake from the CEO downwards, all Unilever meetings with access now run using OneView.",
+            "OneView has proved a breakthrough benchmark for Unilever, setting a new standard for what a great mobile experience, coupled with contextually-served business intelligence, can achieve. The product has also acted as an important catalyst, introducing Unilever to Agile methodologies, including new concepts like rapid prototyping and iterative development.",
+            {
+                "image_url": "https://https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/oneview3-iphone-mockup-2x.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "client": "Maplin",
+      "teaser": "Reinventing the in-store experience",
+      "vertical": "Retail",
+      "is_enterprise": false,
+      "title": "Reinventing the In-Store Experience",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/maplin_hero-2x.png",
+      "app_store_url": null,
+      "sections": [
+        {
+          "title": null,
+          "body_elements": [
+            "Maplin is the UK’s number one specialist technology retailer, with over 200 stores in the UK and Ireland and an impressive inventory of over 30,000 products across 800 different categories of technology.",
+            "Despite the impressive scale and great reputation for technological expertise and advice, the brand isn’t typically the first destination for consumers seeking the latest innovative tech. This presents a critical perception challenge - one that Maplin are tackling head on.",
+            "Maplin’s ambition is to appeal to a much broader audience by reinventing their stores, creating a brilliant omni-channel experience as well as honing their product ranges to focus on rapidly growing Smart Home technology.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/maplin_objectives_-2x.png"
+            },
+            "At the heart of this transformation is a new, 3,120 sq ft concept store at The Beehive Centre in Cambridge - the perfect space to test new approaches. With only a short time before the new store was due to open in November 2016, Maplin approached Kin + Carta Create to explore how mobile could be leveraged to deliver against their key business objectives and enhance the in-store experience.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/maplin_store-2x.png"
+            }
+          ]
+        },
+        {
+          "title": "Go slow, to go fast",
+          "body_elements": [
+            "Maplin already had two separate product ideas clearly in mind, and with a pressing deadline looming, it would have been all too easy for a less experienced team to simply start building.",
+            "However, both Maplin and Kin + Carta Create understood that sometimes, before you can go fast - you have to go slow. The biggest challenges lay in interrogating the detail: each existing idea needed further clarification if they were to add tangible business value for Maplin. In addition, the complexities of delivery needed to be comprehensively explored to ensure risks that might affect the deadline were properly identified and mitigated.",
+            "As a result, and despite the pressures of time, the Kin + Carta Create team first conducted an in-depth workshop, followed by a rapid review of the outcomes underpinning each product idea. This proved essential to clarify the business case, and identify known project risks. The outcomes and risks continued to be iterated and reviewed as the project progressed, with the help of prototypes and user feedback.",
+            "Seamless, effective collaboration between both parties was essential for efficient delivery. With that in mind, the joint team also developed a set of core project principles. These acted as a simple, flexible framework, and fostered a shared sense of focus and commitment throughout the project that meant tight deadlines didn’t mean a compromise in quality.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/maplin_principles_-2x.png"
+            }
+          ]
+        },
+        {
+          "title": "Seven weeks, two apps later",
+          "body_elements": [
+            "The joint team’s delivery success speaks for itself: in just seven weeks, the team refined Maplin’s initial ideas, and built two brand new apps in time for the Cambridge store opening.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/maplin_extended-range-2x.png"
+            },
+            "The first, Product Display, showcases a selection of Maplin’s range of Smart Home products. The products themselves sit, side-by-side, with the interactive Product Display app. This delivers a much more tactile experience for the customer with further information, help and ideas only a tap away.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/maplin_product-display-2x.png"
+            },
+            "The second app, called Extended Range, has information on the entire range of products from Maplin’s extensive inventory. This can be used as a catalogue for customers in-store, but primarily it provides Maplin’s knowledgeable colleagues with all the information they need to better serve customers."
+          ]
+        },
+        {
+          "title": "Making it easy",
+          "body_elements": [
+            "Given the pressure of the store opening, the Kin + Carta Create team took every opportunity to make the transition and handover process as smooth as possible for Maplin.",
+            "This included extensive style guides for uploading any new products to the range, along with detailed, intuitive walkthroughs for colleagues to ensure they could use both new apps effectively from the moment the concept store opened.",
+            "Early indicators show that the new in-store experience is resonating well with customers: preliminary figures show a 30% increase in footfall and an excellent 20% increase in sales during the first few months of opening."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "client": "The Economist",
+      "vertical": "Media",
+      "is_enterprise": false,
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/economist_hero-2x.png",
+      "app_store_url": null,
+      "sections": [
+        {
+          "title": null,
+          "body_elements": []
+        },
+        {
+          "title": null,
+          "body_elements": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "client": "M&S",
+      "teaser": "Building a new payments experience for a high street icon",
+      "vertical": "Retail",
+      "is_enterprise": false,
+      "title": "Rapidly Delivering A New Service For A High Street Icon",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/cs_ms_hero_image-2x.jpg",
+      "sections": [
+        {
+          "title": null,
+          "body_elements": [
+            "Kin + Carta create partnered with Marks & Spencer to develop the Mobile Pay Go service. The service revolutionises the in-store experience for M&S Food customers, enabling users to beat the queues by scanning products, paying and leaving the store in one seamless experience. Working collaboratively, the Kin + Carta Create and M&S team built the service ready for a live employee trial in just 12 weeks.",
+            "Marks & Spencer is undergoing a significant transformation as they seek to place digital at the heart of their business, which includes investing in digital and mobile technology that will help improve the customer experience in-store.",
+            "Led by Jim Cruickshank (Global Head of Digital Product and UX), the Marks & Spencer team identified an opportunity to deliver on this vision for a ‘mobile-first’ shopping experience by enabling customers to pay for items in-store using their own devices, removing the need to queue. The perfect opportunity presented itself to pilot the new service when a new store opening at its Waterside Head Office was confirmed for summer 2018, but time was short.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/cs_ms_image_1-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "M&S Mobile Pay Go",
+          "body_elements": [
+            "The M&S app, integrated with the Sparks loyalty program, detects when customers are within an M&S store and triggers Mobile Pay Go functionality. Customers can use the app to scan product barcodes with their device camera, which are added to the app basket. When the customer is ready to pay, they can make one-tap payments using their stored cards or Apple Pay."
+          ]
+        },
+        {
+          "title": "Delivering quality at pace",
+          "body_elements": [
+            "Kin + Carta Create Engineers collaborated closely with M&S Product and UX teams to provide continuous feedback and tight iteration loops to ensure a quality experience for customers. An example of this can be seen in the payment experience. When testing an early prototype, the team found it was almost too easy to pay, and users were tapping and paying before they had completed their shop. As a result, the team switched to a swipe across interaction to prevent mistaken payments.",
+            "The requirement to deliver the service through the core Marks & Spencer app required some creative thinking to minimise the impact on the existing iOS development team while ensuring a smooth integration. The team identified that by building the front-end service as a separate framework on iOS, they could develop and test it independently before it was integrated and deployed to the main M&S app for the trial.",
+            "The team deployed and ran everything in Azure and M&S’s Kubernetes cluster, including an API built by Kin + Carta Create to handle payments and completion of transactions in M&S systems. Following M&S's latest technical standards and closely collaborating with M&S engineers and product managers ensured quality and ease of handover to the team who are now supporting the service."
+          ]
+        },
+        {
+          "title": "The results",
+          "body_elements": [
+            "The service was successfully trialled at the opening of the new Paddington store, delivering a seamless experience for colleagues that want a quick pay and go option, just 13 weeks after we started working together. The service allows customers to scan and pay for items in under 10 seconds. Next for the service is further iteration based on customer feedback, launch into more stores and on Android devices."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "client": "Ford",
+      "teaser": "Exploring the future of urban car use",
+      "vertical": "Transport",
+      "is_enterprise": false,
+      "title": "Exploring the Future of Urban Car Use",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/cs-ford-hero-image-web.jpg",
+      "sections": [
+        {
+          "title": null,
+          "body_elements": [
+            "By 2040, there are expected to be a staggering 9 billion people living in cities around the world. This increase in population creates an urgent challenge: over the next 25 years, many of our cities will enter a state of ‘global gridlock’, with insufficient room or roads to support the demand for cars.",
+            "With its long history of innovation, Ford chose to face the challenge head-on with a series of international experiments designed to uncover new, sustainable business models for the automotive industry. Known as the Smart Mobility Plan, the project kicked off in 2014/5 with 25 experiments running worldwide.",
+            "With London a key test market, Ford approached Kin + Carta Create with a specific question in mind: what does a viable, on-demand car sharing service look like?",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/cs-ford-pen-sketches.jpg"
+            }
+          ]
+        },
+        {
+          "title": "London's most affordable car sharing service",
+          "body_elements": [
+            "Beginning with an intense period of user and market research, the team next developed a technical proof-of-concept over the course of six weeks. This included working car reservation and return, with the ability to unlock a car from the app. This early work enabled us to validate the user experience and ensure technical stability before integrating with a payment solution.",
+            "An iOS-only MVP release was then tested extensively with 100 customers over a six month period, before going live in the App Store in 2015.",
+            "The new service, known as GoDrive, was ultimately designed to complement, rather than replace, existing transport modes. Its proposition was unique in the flexibility and affordability that it offered customers: one-way trips with guaranteed parking meant that unlike other car-sharing services, GoDrive customers didn’t have to return the car to its original location. With a pay-as-you-go approach and pay-by-minute pricing that covered congestion fees, insurance and fuel, GoDrive also proved highly cost-effective.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/cs-ford-location.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Designed for experimentation",
+          "body_elements": [
+            "The challenge for Kin + Carta Create, however, wasn’t just to design a new, end-to-end service. The project also needed to capture invaluable learnings that could later be used by Ford to inform future investment decisions.",
+            "To achieve this, Kin + Carta Create adopted a lean, hypothesis-driven approach right from the outset that allowed for rapid, iterative development and data capture. Each feature developed for the service was highly configurable, and could be measured through a range of analytics. This allowed the team to gain the highest possible level of insight into users needs, and capture real-time, granular data. This proved key when the team began to build the Android version of GoDrive: originally projected to take 18 months per platform to build, data and learnings from the iOS releases ensured the Android app was delivered in just five months.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/ford-android-ios-vs-android.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Built for agility",
+          "body_elements": [
+            "As an ongoing learning experiment, it was critical that GoDrive was built with agility in mind from the outset to allow the project to pivot as needed or rapidly scale to support a global rollout if required.",
+            "The first step was to foster a robust DevOps culture. Kin + Carta Create's engineering team took the lead, supporting collaborative working, integration and quality assurance between partners across three continents.",
+            "In addition, the initial technical footprint was kept small while the system architecture allowed for rapid scalability as needed. Fully automated end-to-end behavioural tests proved key: enabling new features to be released every 8 days on average, however some days saw five different releases of the backend and web portal. This continuous delivery cycle operated successfully for over two years, and reduced testing overhead by 40%.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/cs-ford-edge-to-edge_illustration.jpg"
+            },
+            "The speed and efficiency of Kin + Carta Create's engineering team meant the scope of GoDrive extended beyond mobile to web. The team further delivered two web-based portals: one for customers, and the second for service operators to manage GoDrive’s fleet of Ford Focus Electric and Ford Fiesta cars.",
+            {
+                "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/cs-ford-desktop.jpg"
+            }
+          ]
+        },
+        {
+          "title": "A data-driven success",
+          "body_elements": [
+            "Perhaps the most mature experiment from the Smart Mobility Plan, GoDrive proved a highly successful service design experiment.",
+            "From its initial base of 100 registered users, GoDrive grew to over 2,500 customers with over 20 GoDrive locations across London - and it generated data from over 35,000 journeys in the first twelve months alone."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "client": null,
+      "teaser": "Reimagining financial services in a post-plastic world",
+      "vertical": "Banking",
+      "is_enterprise": true,
+      "title": "Post-plastic Financial Services",
+      "hero_image": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/fs_hero_image-2x.png",
+      "sections": [
+        {
+          "title": null,
+          "body_elements": [
+            "Everywhere we turn, technology and human behaviour are reshaping essential services - including one of the most fundamental: how we manage our money.",
+            "For large financial services institutions burdened with complex legacy IT infrastructures and heavy regulation, adapting to the pace of change is a difficult task, with tech giants and hungry start-ups threatening to overturn the status quo.",
+            "The situation isn’t all one-sided, however - large, established organisations have a number of important advantages. These include international scale and infrastructure which, used correctly, can actively fuel -rather than stifle - innovation and disruption. With the right strategy in place, incumbents are well-placed to take advantage of change.",
+            {
+              "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/diagram_fs_valuechain1-2x.png"
+            },
+            "Kin + Carta Create was approached by one of the world’s most recognisable financial services brands to identify and articulate a new mobile-led strategy that would allow them to seize the advantage.",
+            "The critical challenge they faced was two-fold: how best to help customers (banks and merchants) meet the pace of disruptive change, while at the same time, assessing how their own services fit within a post-plastic world.",
+            "To address this complex business challenge, Kin + Carta Create kicked off the project with a series of lean, strategic investigations to reimagine the client’s existing services. This incorporated three distinct strategic pieces of work: the development of a full API strategy; a discovery phase to uncover new opportunities for innovation, and the creation of new value propositions based on geo-location.",
+            {
+              "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/fs_product_image-2x.png"
+            }
+          ]
+        },
+        {
+          "title": "Fuelling innovation",
+          "body_elements": [
+            "Core to our joint vision was to position our client’s iconic brand as an innovation catalyst for third parties: empowering partners to better serve consumers in a world where mobile is an expectation, not a device.",
+            "Part of this strategy of enablement was make the company’s wealth of data and services mobile-first and readily accessible to partners - in the form of optimised APIs and SDKs. But with a wealth of data available, the key question was understanding where it could add most value - to our client, their partners, and to end users.",
+            {
+              "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/fs_notebook_image-2x.jpg"
+            },
+            "Following a strategic audit that examined API best practice across industries, our strategists ran a series of workshops to break down the value of open data and available APIs. The workshops provided the essential springboard to kickstart a full API strategy. This provided the technical principles and recommendations to enable our client to rapidly bring new services to market in the future.",
+            {
+              "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/fs_watch_image-2x.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Bringing strategy to life",
+          "body_elements": [
+            "For incumbents like our client, tackling disruption requires a radical rethink - and securing stakeholder buy-in is critical to success. To facilitate this, it was essential we establish a product mindset: validating the overall strategic direction with a lean delivery approach and rapid prototyping to quickly experiment, test and communicate new propositions.",
+            "One example examined a particular API focused on geo-locational data. We developed a series of consumer-facing test cases that addressed the needs of key customer segments. With experience mapping and working prototypes, we were able to surface previously untapped opportunities and clearly demonstrate how geo-locational data could transform the provision of banking and payment services to customers.",
+            {
+              "image_url": "https://raw.githubusercontent.com/theappbusiness/engineering-challenge/main/endpoints/v2/images/fs_map_image-2x.png"
+            }
+          ]
+        },
+        {
+          "title": "A blueprint for the future",
+          "body_elements": [
+            "Both the API strategy and the innovation project have formed an important cornerstone for future mobile projects within our client’s organisation.",
+            "The API strategy, in particular, has proved instrumental in helping the company understand the value and urgent necessity of building a future-ready, mobile-optimised platform that can empower banks and merchants to build on our client’s services."
+          ]
+        }
+      ]
+    }
+  ]
+}
